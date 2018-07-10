@@ -30,7 +30,9 @@ To purchase an Azure Reserved Virtual Machine (VM) Instance using the Partner Ce
 > * India  
 > * Russia  
 > * South Korea  
-> * Taiwan 
+> * Taiwan
+> * Hong Kong
+
 
 ## <span id="Prerequisites"></span><span id="prerequisites"></span><span id="PREREQUISITES"></span>Prerequisites
 
